@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Assessment Mobpro</string>
+    <string name="app_name">Average</string>
+    <string name="intro">Average merupakan aplikasi yang digunakan untuk menghitung rata-rata dari data numerik. Ayo cobain!!!</string>
+    <string name="nilai1">Masukkan Nilai 1</string>
+    <string name="nilai2">Masukkan Nilai 2</string>
+    <string name="nilai3">Masukkan Nilai 3</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Rata Rata : %1$.2f</string>
+    <string name="nilai1_invalid">Nilai 1 tidak boleh kosong.</string>
+    <string name="nilai2_invalid">Nilai 2 tidak boleh kosong.</string>
+    <string name="nilai3_invalid">Nilai 3 jenis kelamin.</string>
 </resources>
