@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Average</string>
-    <string name="intro">Average merupakan aplikasi yang digunakan untuk menghitung rata-rata dari data numerik. Ayo cobain!!!</string>
+    <string name="intro">Average merupakan aplikasi yang digunakan untuk menghitung rata-rata nilai dari data numerik. Ayo cobain!!!</string>
     <string name="nilai1">Masukkan Nilai 1</string>
     <string name="nilai2">Masukkan Nilai 2</string>
     <string name="nilai3">Masukkan Nilai 3</string>
