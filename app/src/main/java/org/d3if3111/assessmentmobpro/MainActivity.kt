@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, R.string.nilai2_invalid, Toast.LENGTH_LONG).show()
             return
         }
-        val nilaiTiga = binding.nilai1Inp.text.toString()
+        val nilaiTiga = binding.nilai3Inp.text.toString()
         if (TextUtils.isEmpty(nilaiTiga)) {
             Toast.makeText(this, R.string.nilai3_invalid, Toast.LENGTH_LONG).show()
             return

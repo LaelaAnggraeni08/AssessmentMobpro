@@ -8,5 +8,5 @@
     <string name="hasil">Rata Rata : %1$.2f</string>
     <string name="nilai1_invalid">Nilai 1 tidak boleh kosong.</string>
     <string name="nilai2_invalid">Nilai 2 tidak boleh kosong.</string>
-    <string name="nilai3_invalid">Nilai 3 jenis kelamin.</string>
+    <string name="nilai3_invalid">Nilai 3 tidak boleh kosong.</string>
 </resources>

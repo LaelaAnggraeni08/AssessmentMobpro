@@ -73,7 +73,7 @@
             android:hint="@string/nilai3" />
         </com.google.android.material.textfield.TextInputLayout>
 
-        <Button
+       <Button
             android:id="@+id/button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -86,7 +86,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/nilai3_hint" />
 
-        <View
+       <View
             android:id="@+id/divider"
             android:layout_width="match_parent"
             android:layout_height="1dp"
@@ -98,7 +98,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/button" />
 
-        <TextView
+       <TextView
             android:id="@+id/hasilTextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -110,7 +110,7 @@
             app:layout_constraintTop_toBottomOf="@+id/divider"
             tools:text="Rata-Rata : " />
 
-        <TextView
+       <TextView
             android:id="@+id/emptyTextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
